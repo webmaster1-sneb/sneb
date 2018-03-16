@@ -1,0 +1,61 @@
+Title: Compétition
+----
+Description: La compétition au Club d'Aviron de Biel/Bienne. Résultats, classements et compétiteurs et équipes.
+----
+Keywords: Compétition, Challenge, Race, Aviron, Rudern, Rowing, Bienne, Biel, skiff, skull
+----
+Text:
+##Résultats des régates 2016##
+
+
+###Cham 21 mai 2016###
+
+|Niveau | Catégorie   | Rameur(s)                | Résultat  |
+|-------|---------    |-----------               |---------  |
+|    U17|   1x        |	S.Kocher		|5ème|	
+|    U17|   4x        |L.Moeschler/S.Kocher/N.Porhokovoi/Y.Maillefer	|5èmes|	
+|    U15|   1x        |	N.Kocher		|5ème|	
+
+###Cham 22 mai 2016###
+
+|Niveau | Catégorie   | Rameur(s)                | Résultat  |
+|-------|---------    |-----------               |---------  |
+|    U17|   1x        |	S.Kocher		|3ème|	
+|    U17|   4x        |L.Moeschler/S.Kocher/N.Porhokovoi/Y.Maillefer	|6èmes|	
+  
+###Sarnen 4 juin 2016### 
+
+|Niveau | Catégorie   | Rameur(s)                | Résultat  |
+|-------|---------    |-----------               |---------  |
+|    U17|   1x        |	S.Kocher		|3ème|	
+|    U17|   4x        |L.Moeschler/S.Kocher/N.Porhokovoi/Y.Maillefer	|7èmes|	
+|    U15|   1x        |	N.Kocher		|7ème|	
+
+###Sarnen 5 juin 2016### 
+
+|Niveau | Catégorie   | Rameur(s)                | Résultat  |
+|-------|---------    |-----------               |---------  |
+|    U15|   1x        |	N.Kocher		|5ème|	
+|    U17|   4x        |L.Moeschler/S.Kocher/N.Porhokovoi/Y.Maillefer	|7èmes|	
+|    U17|   2x        |	S.Kocher/N.Porhokovoi		|3èmes|	
+
+
+##Résultats des années Précédentes
+(link: Aviron/competition/2014 text: Année 2014) - 
+(link: Aviron/competition/2015 text: Année 2015)
+
+##L'équipe des compétiteurs 2016
+
+###Nils Kocher **U15**
+(image: Nils.jpg alt: Nils au dégagé sur skiff  class:img-responsive img-rounded)
+###Léonard Moeschler **U17**
+(image: leonard.jpg alt: Léonard au dégagé sur skiff  class:img-responsive img-rounded)
+
+###Sven Kocher **U17**
+(image: sven.jpg alt: Sven au dégagé sur skiff  class:img-responsive img-rounded)
+
+###Nikita Porhokovoi  **U17**
+(image: nikita.jpg alt: Nikita au dégagé sur skiff  class:img-responsive img-rounded)
+
+###Younous Maillefer **U17**
+(image: younous.jpg alt: Younous au dégagé sur skiff  class:img-responsive img-rounded)

@@ -1,0 +1,15 @@
+title: Organisation
+metadata:
+    Description: L'organigrame du Club d'Aviron de Biel/Bienne. Bureau et rôles.
+    Keywords: Aviron, Rudern, Rowing, Bienne, Biel, lac de bienne, Bielersee, skiff, skull, yolette, Rame, Ramer
+content:
+    items: '@self.modular'
+    order:
+        by: custom
+        dir: asc
+        custom:
+            - _president
+            - _tresorier
+            - _secretaire
+            - _batiment
+            - _entraineur

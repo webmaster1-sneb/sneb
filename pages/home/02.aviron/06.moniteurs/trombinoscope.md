@@ -1,0 +1,16 @@
+---
+routes:
+    aliases:
+        - '/Aviron/moniteurs'
+title: Moniteurs
+content:
+    items: '@self.modular'
+    order:
+        by: custom
+        dir: asc
+        custom:
+            - _nicole
+            - _patric
+            - _denis
+---
+## Coach et moniteurs J+S

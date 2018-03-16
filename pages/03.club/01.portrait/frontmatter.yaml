@@ -1,0 +1,9 @@
+title: Portrait/Leitbild
+content:
+    items: '@self.modular'
+    order:
+        by: custom
+        dir: asc
+        custom:
+            - _fr
+            - _de
