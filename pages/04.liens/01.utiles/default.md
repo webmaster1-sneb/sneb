@@ -27,4 +27,4 @@ metadata:
 [Info TeleBielingue du 28 août 2014](https://www.youtube.com/watch?v=h7cOKmAk5ng )
 [Info TeleBielingue du 28 août 2014 en allemand](https://www.youtube.com/watch?v=rImkMqNotpA ) 
 
-Voir également les articles de presses et émissions sur [la page média](/club/media )
+Voir également les articles de presses et émissions sur [la page média](club/media )
