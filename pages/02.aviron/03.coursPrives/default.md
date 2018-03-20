@@ -1,9 +1,4 @@
----
-routes:
-    aliases:
-        - '/Aviron/prives'
-title: Cours Privés
----
+
 ##Nouveauté
 
 En mai et juin 2018 vous avez la possibilité d'apprendre l'aviron en journée.

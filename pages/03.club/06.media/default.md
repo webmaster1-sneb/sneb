@@ -1,10 +1,4 @@
----
-title: Média
-medatata:
-    description: Les différents extraits de presse autour du Club d'Aviron de Biel/Bienne et de son projet de rénovation.
-    keywords: Aviron, Rudern, Rowing, Bienne, Biel, lac de bienne, Bielersee, skiff, skull, yolette, Rame, Ramer
-----
- 
+
 ##La couverture média du projet nouveau bâtiment
 
 

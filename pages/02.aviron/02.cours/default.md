@@ -1,12 +1,4 @@
----
-routes:
-    aliases:
-        - '/Aviron/cours'
-title: Cours
-metadata:
-    description: Prendre des cours au Club d'Aviron de Biel/Bienne. Au bord du lac de Bienne Bielersee.
-    keywords: Cours, leçons, Aviron, Rudern, Rowing, Bienne, Biel, skiff, skull, yolette, ergomètre, inscription
----
+
 ##Cours Débutants  
 ###Description
 

@@ -1,6 +1,4 @@
----
-title: Location salle
-----
+
 ## Notre salle
 
 ![](8.jpg&classes=img-responsive,img-rounded)

@@ -1,10 +1,4 @@
----
-menu: Devenir Membre
-title: Inscription au club
-metadata:
-    description: Inscription au Club d'Aviron de Biel/Bienne.
-    keywords: Aviron, Rudern, Rowing, Bienne, Biel, lac de bienne, Bielersee, skiff, skull, yolette, Rame, Ramer
----
+
 ##Devenir membre
 [Formulaire d’adhésion au club](https://sneb.webling.ch/web.php/pnEmiu/Formulaire_d_adh_sion.html)
 

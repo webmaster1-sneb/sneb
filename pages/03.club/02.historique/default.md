@@ -1,9 +1,4 @@
----
-title: Historique
-metadata:
-    description: Historiquie du Club d'Aviron de Biel/Bienne depuis 1902
-    keywords: Aviron, Rudern, Rowing, Bienne, Biel, lac de bienne, Bielersee, skiff, skull, yolette, Rame, Ramer
----- 
+
 *Sur la photo de gauche à droite : **P. Baehni, C. Verdonnet, P. Rohr, E. Schaedeli, R. Droz, R. Vuithier, G. Guenin, R. Guenin** (nage)**, G. Steiner** (barreur).  
 Champions Romands 1919* 
 ##La Société Nautique Étoile Bienne fût créée par 5 membres : 

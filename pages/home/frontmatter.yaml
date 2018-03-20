@@ -1,0 +1,13 @@
+title: Home
+content:
+    items: '@self.modular'
+    order:
+        by: custom
+        dir: asc
+        custom:
+            - _carrousel
+            - _blockcentral1
+            - _connaitre
+            - _actualite
+            - _contacter
+            - _blockcentral2

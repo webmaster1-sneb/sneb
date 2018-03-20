@@ -1,9 +1,3 @@
----
-title: Garage
-metadata:
-    description: Les locaux et bateaux du Club d'Aviron de Biel/Bienne. Au bord du lac de Bienne Bielersee.
-    keywords: Aviron, Rudern, Rowing, Bienne, Biel, lac de bienne, Bielersee, skiff, skull, yolette, Rame, Ramer
----
 
 ##Nos garages
 

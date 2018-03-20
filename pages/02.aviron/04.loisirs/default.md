@@ -1,12 +1,4 @@
----
-routes:
-    aliases:
-        - '/Aviron/loisirs'
-title: Loisirs
-metadata:
-    description: La section loisir du Club d'Aviron de Biel/Bienne. Au bord du lac de Bienne Bielersee en Suisse.
-    keywords: Balades, regattes, collectif, Rame, ramer, Aviron, Rudern, Rowing, Bienne, Biel, skiff, skull, yolette, ergomètre, inscription
----
+
 
 ##Avirondez-vous
 Avirondez-vous sont des sorties de groupe loisir pendant la belle saison. D’avril à octobre

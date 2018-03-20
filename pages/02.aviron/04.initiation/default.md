@@ -1,9 +1,4 @@
----
-routes:
-    aliases:
-        - '/Aviron/initiation'
-title: Initiation
----
+
 ##Initiation pour groupe sur demande
 
 ![](Yolette_initiation.jpg?classes=img-responsive,img-rounded)

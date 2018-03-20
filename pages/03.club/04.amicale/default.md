@@ -1,9 +1,3 @@
----
-title: Amicale
-metadata:
-    description: Amicale du Club d'Aviron de Biel/Bienne. Soutien au club.
-    keywords: Aviron, Rudern, Rowing, Bienne, Biel, lac de bienne, Bielersee, skiff, skull, yolette, Rame, Ramer
-----
 
 ## Elle a vu le jour le 28 octobre 1949.
 Elle a été créée par les membres d'honneur de la Société-mère, l'Etoile, d'alors, avec comme but principal, de soutenir matériellement, financièrement et moralement cette dernière en général, mais en particulier les jeunes membres écoliers désireux de faire de la compétition.

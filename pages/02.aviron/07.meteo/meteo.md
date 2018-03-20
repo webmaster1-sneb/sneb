@@ -1,9 +1,4 @@
----
-title: Meteo
-routes:
-    aliases:
-        - '/Aviron/meteo'
----
+
 ## Les trois points WINDGURU du lac de Bienne
 ![](Slide16.PNG?classes=img-responsive,img-rounded)
 ## Dangers
