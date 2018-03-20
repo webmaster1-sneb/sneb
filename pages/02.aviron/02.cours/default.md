@@ -17,10 +17,10 @@ Vous allez :
 + Maîtriser les règles de sécurité sur le lac.
 - 	Maîtriser le geste sur l'eau et sur ergomètre.
 - 	Sortir en bateaux d'aviron en :
-	- 	surf-skiff -> abordage, manoeuvre
-	- 	yolette	-> coordination team
-	- 	double	-> coordination team
-	- 	Sortie en skiff -> équibilbre, coordination
+	- 	surf-skiff &rarr; abordage, manoeuvre
+	- 	yolette	&rarr; coordination team
+	- 	double	&rarr; coordination team
+	- 	Sortie en skiff &rarr; équibilbre, coordination
 
 Le programme peut varié en fonction des capacités des participants et de la météo.  
 Les cours sont toujours encadrés par un [moniteur JS](/aviron/moniteurs) [certifié](http://www.baspo.admin.ch/internet/baspo/fr/home.html), assisté par des membres du club expérimentés.
@@ -77,7 +77,7 @@ Les cours sont toujours encadrés par un [moniteur JS](/aviron/moniteurs) [certi
 ##Contact  
 par [email](mailto:nicole.steiner@sneb.ch)  
 ou bien par  
-téléphone (tel:+41793384856 text:au +41 [0] 79 338 48 56)
+téléphone [au +41 [0] 79 338 48 56](tel:+41793384856)
 
 
 
