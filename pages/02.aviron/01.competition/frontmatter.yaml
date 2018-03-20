@@ -1,7 +1,7 @@
 routes:
     aliases:
         - '/Aviron/competition'
-title: Compétition
+title: CompÃ©tition
 metadata:
-    description: La compétition au Club d'Aviron de Biel/Bienne. Résultats, classements et compétiteurs et équipes.
-    keywords: Compétition, Challenge, Race, Aviron, Rudern, Rowing, Bienne, Biel, skiff, skull
+    description: La compÃ©tition au Club d'Aviron de Biel/Bienne. RÃ©sultats, classements et compÃ©titeurs et Ã©quipes.
+    keywords: CompÃ©tition, Challenge, Race, Aviron, Rudern, Rowing, Bienne, Biel, skiff, skull
