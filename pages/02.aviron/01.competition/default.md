@@ -155,7 +155,7 @@ metadata:
 ##L'équipe des compétiteurs 2017
 
 ###Nils Kocher **U15**
-![Nils au dégagé sur skiff  ](Nils.jpg?classes=img-responsive,img-rounded)
+![Nils au dégagé sur skiff  ](nils.jpg?classes=img-responsive,img-rounded)
 
 ###Sven Kocher **U17**
 ![Sven au dégagé sur skiff  ](sven.jpg?classes=img-responsive,img-rounded)
