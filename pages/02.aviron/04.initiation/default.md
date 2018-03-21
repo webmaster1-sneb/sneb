@@ -1,11 +1,7 @@
 
 ##Initiation pour groupe sur demande
 
-![](Yolette_initiation.jpg?classes=img-responsive,img-rounded)
-
 ###Tarifs initiation
-
-
 
 
 |Initiation aviron avec moniteur J+S|	 |			
