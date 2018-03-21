@@ -1,7 +1,7 @@
 ---
 title: Andreas Steiner  
 ---
-![](img.jpg?classes=img-rounded,img-reponsive&cropResize=180,263)
+![](img.jpg?classes=img-rounded,img-reponsive&forceResize=180,263)
 ### Bâtiment  
 Président construction    
 [+41 [0] 79 505 02 12](tel:+41795050212)  

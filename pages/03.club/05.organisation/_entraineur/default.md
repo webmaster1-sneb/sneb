@@ -1,7 +1,7 @@
 ---
 title: Patric Kocher
 ---
-![](img.jpg?classes=img-rounded&cropResize=180,263)
+![](img.jpg?classes=img-rounded&forceResize=180,263)
 ### Entraineur J+S 
 Matériel
 [+41 [0] 79 716 16 64](tel:+41797161664)  
