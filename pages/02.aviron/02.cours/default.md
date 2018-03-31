@@ -18,37 +18,37 @@ Le programme peut varié en fonction des capacités des participants et de la m�
 Les cours sont toujours encadrés par un [moniteur JS](/aviron/moniteurs) [certifié](http://www.baspo.admin.ch/internet/baspo/fr/home.html), assisté par des membres du club expérimentés.
 
 ###Dates cours A
-|Cours A 		| Dates			| Jours		| Heures
-|----		|----			|----		|----
-|		| 17 avril 2018		| mardi		| 18h00-20h30
-|		| 18 avril 2018		| mercredi	| 18h00-20h30
-|		| 19 avril 2018		| jeudi		| 18h00-20h30
-|		| 24 avril 2018		| mardi		| 18h00-20h30
-|		| 25 avril 2018		| mercredi	| 18h00-20h30
-|		| 26 avril 2018		| jeudi		| 18h00-20h30
-|		| 28 avril 2018		| samedi 	| 8h30-11h00
+| Dates			| Jours		| Heures
+|----			|----		|----
+| 17 avril 2018		| mardi		| 18h00-20h30
+| 18 avril 2018		| mercredi	| 18h00-20h30
+| 19 avril 2018		| jeudi		| 18h00-20h30
+| 24 avril 2018		| mardi		| 18h00-20h30
+| 25 avril 2018		| mercredi	| 18h00-20h30
+| 26 avril 2018		| jeudi		| 18h00-20h30
+| 28 avril 2018		| samedi 	| 8h30-11h00
 	
 ###Dates cours B
-|Cours B 		| Dates			| Jours		| Heures
-|----		|----			|----		|----
-|		| 22 mai 2018		| mardi		| 18h00-20h30
-|		| 23 mai 2018		| mercredi	| 18h00-20h30
-|		| 24 mai 2018		| jeudi		| 18h00-20h30
-|		| 29 mai 2018		| mardi		| 18h00-20h30
-|		| 30 mai 2018		| mercredi	| 18h00-20h30
-|		| 31 mai 2018		| jeudi		| 18h00-20h30
-|		| 2 mai 2018		| samedi 	| 8h30-11h00
+| Dates			| Jours		| Heures
+|----			|----		|----
+| 22 mai 2018		| mardi		| 18h00-20h30
+| 23 mai 2018		| mercredi	| 18h00-20h30
+| 24 mai 2018		| jeudi		| 18h00-20h30
+| 29 mai 2018		| mardi		| 18h00-20h30
+| 30 mai 2018		| mercredi	| 18h00-20h30
+| 31 mai 2018		| jeudi		| 18h00-20h30
+| 2 mai 2018		| samedi 	| 8h30-11h00
 
 ###Dates cours C
-|Cours C 		| Dates			| Jours		| Heures
-|----		|----			|----		|----
-|		| 7 août 2018		| mardi		| 18h00-20h30
-|		| 8 août 2018		| mercredi	| 18h00-20h30
-|		| 9 août 2018		| jeudi		| 18h00-20h30
-|		| 14 août 2018		| mardi		| 18h00-20h30
-|		| 15 août 2018		| mercredi	| 18h00-20h30
-|		| 16 août 2018		| jeudi		| 18h00-20h30
-|		| 18 août 2018		| samedi 	| 8h30-11h00
+| Dates			| Jours		| Heures
+|----			|----		|----
+| 7 août 2018		| mardi		| 18h00-20h30
+| 8 août 2018		| mercredi	| 18h00-20h30
+| 9 août 2018		| jeudi		| 18h00-20h30
+| 14 août 2018		| mardi		| 18h00-20h30
+| 15 août 2018		| mercredi	| 18h00-20h30
+| 16 août 2018		| jeudi		| 18h00-20h30
+| 18 août 2018		| samedi 	| 8h30-11h00
 
 
 
@@ -71,13 +71,8 @@ par [email](mailto:nicole.steiner@sneb.ch)
 ou bien par  
 téléphone [au +41 [0] 79 338 48 56](tel:+41793384856)
 
-
-
 ##Gold Pass
 
- 
 Test pour passer de rameur vert à rameur jaune
-
 Formation sur demande ou le mercredi soir auprès de Nicole Steiner
-
 téléchargez le [gold pass](gold_pass.pdf)
