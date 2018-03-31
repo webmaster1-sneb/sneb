@@ -51,9 +51,6 @@ Les cours sont toujours encadrés par un [moniteur JS](/aviron/moniteurs) [certi
 |		| 18 août 2018		| samedi 	| 8h30-11h00
 
 
-
-
-
 ###Tarifs
 
 |Public 	| Durée 			| Prix 	|
@@ -62,22 +59,11 @@ Les cours sont toujours encadrés par un [moniteur JS](/aviron/moniteurs) [certi
 |étudiant (jusqu’à 20 ans)|7 leçons de 2h30 (18h00-20h30)	|200.- |
 |écolier (de 11 ans à 16 ans)|7 leçons de 2h30 (18h00-20h30)|150.-|
 
-
-
-[**Formulaire d’inscription aux cours d’aviron**](https://sneb.webling.ch/web.php/yFCG4L/Inscription_aux_cours_d_aviron.html)
-
-##Contact  
+----
+## Pour s´inscrire
+###Contact  
 par [email](mailto:nicole.steiner@sneb.ch)  
 ou bien par  
 téléphone [au +41 [0] 79 338 48 56](tel:+41793384856)
 
-
-
-##Gold Pass
-
- 
-Test pour passer de rameur vert à rameur jaune
-
-Formation sur demande ou le mercredi soir auprès de Nicole Steiner
-
-téléchargez le [gold pass](gold_pass.pdf)
+### Remplissez directement le formulaire d´inscription

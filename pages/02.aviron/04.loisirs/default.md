@@ -20,6 +20,13 @@ Les juniors qui souhaitent ramer activement sont attendus les:
 
 Et ensuite si tu as envie de rejoindre notre équipe de compétition, n’hésite pas à demander des infos à notre coach J+S.
 
+##Gold Pass
+
+Test pour passer de rameur vert à rameur jaune
+Formation sur demande ou le mercredi soir auprès de Nicole Steiner
+téléchargez le [gold pass](gold_pass.pdf)
+
+
 ****
 ##Entraînements d’hiver
 
@@ -36,3 +43,4 @@ Halle de gym OSZ Mâche-Boujean, Chemin de Beaulieu 2, 2504 Bienne.
 18h00-19h55 Echauffement, Uni-hockey pour les juniors et les sportifs.
 
 Halle de gym de Boujean, Route de Soleure 22, 2504 Bienne.
+
