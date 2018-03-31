@@ -12,7 +12,7 @@ form:
         - name: nom
           outerclasses: 'form-group'
           classes: 'form-control'
-          label: Votre nom de famille 
+          label: Nom de famille 
           placeholder: Max 50 caractères
           autofocus: on
           autocomplete: on
@@ -27,7 +27,7 @@ form:
         - name: prenom
           outerclasses: 'form-group'
           classes: 'form-control'      
-          label: Votre prénom 
+          label: Prénom 
           placeholder: Max 50 caractères
           autofocus: on
           autocomplete: on  
@@ -42,7 +42,7 @@ form:
         - name: sex
           outerclasses: 'form-check form-check-inline'
           classes: 'form-check-input' 
-          Label: Sexe
+          label: Sexe
           type: radio
           options:
                masculin: Masculin
@@ -53,7 +53,7 @@ form:
           outerclasses: 'form-group'
           classes: 'form-control'
           type: date
-          label: Saisissez une date
+          label: Date de naissance
           validate:
             min: "1918-01-01"
             max: "2008-01-01"
@@ -95,7 +95,7 @@ form:
         - name: natel
           outerclasses: 'form-group'
           classes: 'form-control'        
-          label: Téléphone portable
+          label: téléphone portable
           placeholder: 099 999 99 99
           type: text
           autofocus: true          
@@ -106,7 +106,7 @@ form:
         - name: fixe
           outerclasses: 'form-group'
           classes: 'form-control'        
-          label: Téléphone fixe
+          label: téléphone fixe
           type: text
           autofocus: true          
           validate:
