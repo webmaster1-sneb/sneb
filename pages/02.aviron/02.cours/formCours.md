@@ -1,6 +1,6 @@
 
-##Cours Débutants  
-###Description
+## Cours Débutants  
+### Description
 
 Ce cours débutant sera une bonne introduction à l’aviron.  
 Vous allez :
@@ -17,41 +17,47 @@ Vous allez :
 Le programme peut varié en fonction des capacités des participants et de la météo.  
 Les cours sont toujours encadrés par un [moniteur JS](/aviron/moniteurs) [certifié](http://www.baspo.admin.ch/internet/baspo/fr/home.html), assisté par des membres du club expérimentés.
 
-###Dates cours A
-|Cours A 		| Dates			| Jours		| Heures
-|----		|----			|----		|----
-|		| 17 avril 2018		| mardi		| 18h00-20h30
-|		| 18 avril 2018		| mercredi	| 18h00-20h30
-|		| 19 avril 2018		| jeudi		| 18h00-20h30
-|		| 24 avril 2018		| mardi		| 18h00-20h30
-|		| 25 avril 2018		| mercredi	| 18h00-20h30
-|		| 26 avril 2018		| jeudi		| 18h00-20h30
-|		| 28 avril 2018		| samedi 	| 8h30-11h00
+### Dates cours A
+
+| Dates			| Jours		| Heures
+|----			|----		|----
+| 17 avril 2018		| mardi		| 18h00-20h30
+| 18 avril 2018		| mercredi	| 18h00-20h30
+| 19 avril 2018		| jeudi		| 18h00-20h30
+| 24 avril 2018		| mardi		| 18h00-20h30
+| 25 avril 2018		| mercredi	| 18h00-20h30
+| 26 avril 2018		| jeudi		| 18h00-20h30
+| 28 avril 2018		| samedi 	| 8h30-11h00
 	
-###Dates cours B
-|Cours B 		| Dates			| Jours		| Heures
-|----		|----			|----		|----
-|		| 22 mai 2018		| mardi		| 18h00-20h30
-|		| 23 mai 2018		| mercredi	| 18h00-20h30
-|		| 24 mai 2018		| jeudi		| 18h00-20h30
-|		| 29 mai 2018		| mardi		| 18h00-20h30
-|		| 30 mai 2018		| mercredi	| 18h00-20h30
-|		| 31 mai 2018		| jeudi		| 18h00-20h30
-|		| 2 mai 2018		| samedi 	| 8h30-11h00
+### Dates cours B
 
-###Dates cours C
-|Cours C 		| Dates			| Jours		| Heures
-|----		|----			|----		|----
-|		| 7 août 2018		| mardi		| 18h00-20h30
-|		| 8 août 2018		| mercredi	| 18h00-20h30
-|		| 9 août 2018		| jeudi		| 18h00-20h30
-|		| 14 août 2018		| mardi		| 18h00-20h30
-|		| 15 août 2018		| mercredi	| 18h00-20h30
-|		| 16 août 2018		| jeudi		| 18h00-20h30
-|		| 18 août 2018		| samedi 	| 8h30-11h00
+| Dates			| Jours		| Heures
+|----			|----		|----
+| 22 mai 2018		| mardi		| 18h00-20h30
+| 23 mai 2018		| mercredi	| 18h00-20h30
+| 24 mai 2018		| jeudi		| 18h00-20h30
+| 29 mai 2018		| mardi		| 18h00-20h30
+| 30 mai 2018		| mercredi	| 18h00-20h30
+| 31 mai 2018		| jeudi		| 18h00-20h30
+| 2 mai 2018		| samedi 	| 8h30-11h00
+
+### Dates cours C
+
+| Dates			| Jours		| Heures
+|----			|----		|----
+| 7 août 2018		| mardi		| 18h00-20h30
+| 8 août 2018		| mercredi	| 18h00-20h30
+| 9 août 2018		| jeudi		| 18h00-20h30
+| 14 août 2018		| mardi		| 18h00-20h30
+| 15 août 2018		| mercredi	| 18h00-20h30
+| 16 août 2018		| jeudi		| 18h00-20h30
+| 18 août 2018		| samedi 	| 8h30-11h00
 
 
-###Tarifs
+
+
+
+### Tarifs
 
 |Public 	| Durée 			| Prix 	|
 |----		|----				|----	|
@@ -59,11 +65,13 @@ Les cours sont toujours encadrés par un [moniteur JS](/aviron/moniteurs) [certi
 |étudiant (jusqu’à 20 ans)|7 leçons de 2h30 (18h00-20h30)	|200.- |
 |écolier (de 11 ans à 16 ans)|7 leçons de 2h30 (18h00-20h30)|150.-|
 
-----
-## Pour s´inscrire
-###Contact  
+
+##Contact  
 par [email](mailto:nicole.steiner@sneb.ch)  
 ou bien par  
 téléphone [au +41 [0] 79 338 48 56](tel:+41793384856)
 
-### Remplissez directement le formulaire d´inscription
+### Formulaire d´inscription
+
+_tous les champs marqués * sont obligatoires_
+
