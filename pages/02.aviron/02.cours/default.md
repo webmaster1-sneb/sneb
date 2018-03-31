@@ -1,6 +1,6 @@
 
-##Cours Débutants  
-###Description
+## Cours Débutants  
+### Description
 
 Ce cours débutant sera une bonne introduction à l’aviron.  
 Vous allez :
@@ -17,7 +17,7 @@ Vous allez :
 Le programme peut varié en fonction des capacités des participants et de la météo.  
 Les cours sont toujours encadrés par un [moniteur JS](/aviron/moniteurs) [certifié](http://www.baspo.admin.ch/internet/baspo/fr/home.html), assisté par des membres du club expérimentés.
 
-###Dates cours A
+### Dates cours A
 
 | Dates			| Jours		| Heures
 |----			|----		|----
@@ -29,7 +29,7 @@ Les cours sont toujours encadrés par un [moniteur JS](/aviron/moniteurs) [certi
 | 26 avril 2018		| jeudi		| 18h00-20h30
 | 28 avril 2018		| samedi 	| 8h30-11h00
 	
-###Dates cours B
+### Dates cours B
 
 | Dates			| Jours		| Heures
 |----			|----		|----
@@ -41,7 +41,7 @@ Les cours sont toujours encadrés par un [moniteur JS](/aviron/moniteurs) [certi
 | 31 mai 2018		| jeudi		| 18h00-20h30
 | 2 mai 2018		| samedi 	| 8h30-11h00
 
-###Dates cours C
+### Dates cours C
 
 | Dates			| Jours		| Heures
 |----			|----		|----
@@ -57,7 +57,7 @@ Les cours sont toujours encadrés par un [moniteur JS](/aviron/moniteurs) [certi
 
 
 
-###Tarifs
+### Tarifs
 
 |Public 	| Durée 			| Prix 	|
 |----		|----				|----	|
@@ -74,7 +74,7 @@ par [email](mailto:nicole.steiner@sneb.ch)
 ou bien par  
 téléphone [au +41 [0] 79 338 48 56](tel:+41793384856)
 
-##Gold Pass
+## Gold Pass
 
 Test pour passer de rameur vert à rameur jaune
 Formation sur demande ou le mercredi soir auprès de Nicole Steiner
