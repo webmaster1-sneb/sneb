@@ -147,6 +147,7 @@ form:
         - name: nom_club_entraineur
           outerclasses: 'form-group'
           classes: 'form-control'        
+          label: Nom du club et période 
           placeholder: Nom du club et période 
           type: text
           autofocus: true          
@@ -198,7 +199,7 @@ form:
           outerclasses: 'form-check form-check-inline'
           classes: 'form-check-input'  
           type: checkbox
-          label: 'J´ai lu les statuts et règlements de la SNEB (Disponible sur \<a href\=\"\/club\/statuts\"\>www.sneb.ch/club/status\<\/a\>)'
+          label: 'J´ai lu les statuts et règlements de la SNEB (Disponible sur www.sneb.ch/club/status)'
           validate:
             required: false 
         - name: assert_cgv
@@ -217,8 +218,9 @@ form:
             required: true
         - name: nom_legal
           outerclasses: 'form-group'
-          classes: 'form-control'        
-          placeholder: Nom du représentant légal (Pour les moins de 18 ans, le nom du représentant légal doit être indiqué :)
+          classes: 'form-control'
+          label: Nom du représentant légal 
+          placeholder: (Pour les moins de 18 ans, le nom du représentant légal doit être indiqué)
           type: text
           autofocus: true          
           validate:
