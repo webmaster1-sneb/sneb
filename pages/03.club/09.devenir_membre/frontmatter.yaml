@@ -127,7 +127,7 @@ form:
           classes: 'form-control'        
           type: display
           size: large
-          label: Expérience de l'aviron
+          label: Expérience de l'aviron, bonne santé et assurance
           markdown: true       
           content: 'L´indication correcte de vos compétences en aviron est obligatoire pour l´admission de membre actif au sein du club. Pour plus de lisibilité, ce qui suit est uniquement spécifié au masculin.'
         - name: assert_cours_base
@@ -147,7 +147,7 @@ form:
         - name: nom_club_entraineur
           outerclasses: 'form-group'
           classes: 'form-control'        
-          label: Nom du club et période 
+          placeholder: Nom du club et période 
           type: text
           autofocus: true          
           validate:
@@ -198,7 +198,7 @@ form:
           outerclasses: 'form-check form-check-inline'
           classes: 'form-check-input'  
           type: checkbox
-          label: 'J´ai lu les statuts et règlements de la SNEB (Disponible sur <a href="/club/statuts">www.sneb.ch/club/status</a>)'
+          label: 'J´ai lu les statuts et règlements de la SNEB (Disponible sur \<a href\=\"\/club\/statuts\"\>www.sneb.ch/club/status\<\/a\>)'
           validate:
             required: false 
         - name: assert_cgv
@@ -218,7 +218,7 @@ form:
         - name: nom_legal
           outerclasses: 'form-group'
           classes: 'form-control'        
-          label: Nom du représentant légal (Pour les moins de 18 ans, le nom du représentant légal doit être indiqué :)
+          placeholder: Nom du représentant légal (Pour les moins de 18 ans, le nom du représentant légal doit être indiqué :)
           type: text
           autofocus: true          
           validate:
