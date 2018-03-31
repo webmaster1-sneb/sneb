@@ -3,3 +3,261 @@ title: Inscription au club
 metadata:
     description: Inscription au Club d'Aviron de Biel/Bienne.
     keywords: Aviron, Rudern, Rowing, Bienne, Biel, lac de bienne, Bielersee, skiff, skull, yolette, Rame, Ramer
+form:
+    name: Inscription_aux_club
+    classes : 'container-fluid form'
+    fields:
+        - name: nom
+          outerclasses: 'form-group'
+          classes: 'form-control'
+          label: Nom de famille 
+          placeholder: Max 50 caractères
+          autofocus: on
+          autocomplete: on
+          type: text
+          size: large
+          attributes:
+              maxlength:
+                name : maxlength
+                value : 50
+          validate:
+            required: true
+        - name: prenom
+          outerclasses: 'form-group'
+          classes: 'form-control'      
+          label: Prénom 
+          placeholder: Max 50 caractères
+          autofocus: on
+          autocomplete: on  
+          type: text
+          size: large
+          attributes:
+              maxlength:
+                name : maxlength
+                value : 50
+          validate:
+            required: true
+        - name: sex
+          outerclasses: 'form-check form-check-inline'
+          classes: 'form-check-input' 
+          label: Sexe
+          type: radio
+          options:
+               masculin: Masculin
+               féminin: Féminin
+          validate:
+            required: true
+        - name: naissance
+          outerclasses: 'form-group'
+          classes: 'form-control'
+          type: date
+          label: date de naissance
+          validate:
+            min: "1918-01-01"
+            max: "2008-01-01"
+            required: true
+        - name: nation
+          outerclasses: 'form-group'
+          classes: 'form-control'        
+          label: Nationalité
+          type: text
+          autofocus: true
+          validate:
+            required: true
+        - name: avs
+          outerclasses: 'form-group'
+          classes: 'form-control'        
+          label: No. AVS
+          type: text
+          placeholder: 123.1234.1234.12
+          validate:
+            required: 1
+            pattern: '^[0-9]{3}.[0-9]{4}.[0-9]{4}.[0-9]{2}$'
+            message: 'Format incorrect. L´AVS doit avoir un format 123.1234.1234.12'
+        - name: rue
+          outerclasses: 'form-group'
+          classes: 'form-control'        
+          label: Rue, N°
+          type: text
+          autofocus: true
+          validate:
+            required: true          
+        - name: npa
+          outerclasses: 'form-group'
+          classes: 'form-control'        
+          label: NPA, Lieu
+          type: text
+          autofocus: true
+          validate:
+            required: true          
+        - name: natel
+          outerclasses: 'form-group'
+          classes: 'form-control'        
+          label: Téléphone portable
+          placeholder: 099 999 99 99
+          type: text
+          autofocus: true          
+          validate:
+            required: 1
+            pattern: '(0041|\+41|0)\s?(\d{2})\s?(\d{3})\s?(\d{2})\s?(\d{2})'
+            message: 'Format incorrect. Un N° Suisse à la forme 012 123 12 12 ou +41 12 123 12 12'
+        - name: fixe
+          outerclasses: 'form-group'
+          classes: 'form-control'        
+          label: Téléphone fixe
+          type: text
+          autofocus: true          
+          validate:
+            required: false
+            pattern: '(0041|\+41|0)\s?(\d{2})\s?(\d{3})\s?(\d{2})\s?(\d{2})'
+            message: 'Format incorrect. Un N° Suisse à la forme 012 123 12 12 ou +41 12 123 12 12'
+        - name: email
+          outerclasses: 'form-group'
+          classes: 'form-control'        
+          label: email
+          placeholder: email@test.com
+          type: text
+          autofocus: true          
+          validate:
+            required: 1
+            pattern: '\b[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}\b'
+            message: 'Format incorrect.'    
+        - name: experience
+          outerclasses: 'form-group'
+          classes: 'form-control'        
+          type: display
+          size: large
+          label: Expérience de l'aviron
+          markdown: true       
+          content: 'L´indication correcte de vos compétences en aviron est obligatoire pour l´admission de membre actif au sein du club. Pour plus de lisibilité, ce qui suit est uniquement spécifié au masculin.'
+        - name: assert_cours_base
+          outerclasses: 'form-check form-check-inline'
+          classes: 'form-check-input'        
+          type: checkbox
+          label: 'J´ai suivi le cours de base à la SN Etoile Bienne'
+          validate:
+            required: false
+        - name: assert_cours_prive
+          outerclasses: 'form-check form-check-inline'
+          classes: 'form-check-input'      
+          type: checkbox
+          label: 'J´ai été formé en privé soit par un instructeur de la SN Etoile Bienne, soit dans un autre club'
+          validate:
+            required: false
+        - name: nom_club_entraineur
+          outerclasses: 'form-group'
+          classes: 'form-control'        
+          label: Nom du club et période 
+          type: text
+          autofocus: true          
+          validate:
+            required: false
+        - name: resp_assurance_text
+          outerclasses: 'form-group'
+          classes: 'form-control'        
+          type: display
+          size: large
+          label: Responsabilité et l’assurance
+          markdown: true
+        - name: assert_resp
+          outerclasses: 'form-check form-check-inline'
+          classes: 'form-check-input'      
+          type: checkbox
+          label: 'Je prends connaissance que je ne suis pas assuré par le biais de la SNEB. Les dommages à l´équipement d’un bateau doivent être portés par l´auteur lui-même ou par son assurance responsabilité civile'
+          validate:
+            required: false
+        - name: assert_accident
+          outerclasses: 'form-check form-check-inline'
+          classes: 'form-check-input'  
+          type: checkbox
+          label: 'Je prends connaissance, que la SNEB décline toute responsabilité lors d’un accident'
+          validate:
+            required: false 
+        - name: confirmation
+          outerclasses: 'form-group'
+          classes: 'form-control'        
+          type: display
+          size: large
+          label: Confirmation
+          markdown: true
+        - name: assert_sante
+          outerclasses: 'form-check form-check-inline'
+          classes: 'form-check-input'      
+          type: checkbox
+          label: 'Je suis en bonne santé et me sens en forme pour la pratique de laviron'
+          validate:
+            required: false
+        - name: assert_nage
+          outerclasses: 'form-check form-check-inline'
+          classes: 'form-check-input'  
+          type: checkbox
+          label: 'Je peux nager 300m en eau libre'
+          validate:
+            required: false 
+        - name: assert_status
+          outerclasses: 'form-check form-check-inline'
+          classes: 'form-check-input'  
+          type: checkbox
+          label: 'J´ai lu les statuts et règlements de la SNEB (Disponible sur <a href="/club/statuts">www.sneb.ch/club/status</a>)'
+          validate:
+            required: false 
+        - name: assert_cgv
+          outerclasses: 'form-check form-check-inline'
+          classes: 'form-check-input'  
+          type: checkbox
+          label: 'Je peux nager 300m en eau libre'
+          validate:
+            required: false 
+        - name: accept_18
+          outerclasses: 'form-check form-check-inline'
+          classes: 'form-check-input'      
+          type: checkbox
+          label: 'J´ai 18 ans ou bien mon représentant légal me cautionne'
+          validate:
+            required: true
+        - name: nom_legal
+          outerclasses: 'form-group'
+          classes: 'form-control'        
+          label: Nom du représentant légal (Pour les moins de 18 ans, le nom du représentant légal doit être indiqué :)
+          type: text
+          autofocus: true          
+          validate:
+            required: false
+        - name: comments
+          outerclasses: 'form-group'
+          classes: 'form-control'        
+          label: Commentaires supplémentaires
+          placeholder: Si nécessaire, ajouter toute information utile qui n'a pas trouvé sa place dans les champs plus haut.
+          type: textarea
+          validate:
+            required: false
+    buttons:
+        - type: submit
+          outerclasses: 'form-group'
+          classes: 'btn btn-primary btn-lg'
+          value: Submit
+        - type: reset
+          outerclasses: 'form-group'
+          classes: 'btn btn-secondary btn-lg'       
+          value: Reset
+
+    process:
+        - email:
+            from: "{{ config.plugins.email.from }}"
+            to:
+              - "info@sneb.ch"
+            cc:
+               - "{{ form.value.email }}"
+            bcc: 
+               - "webmaster@sneb.ch"
+            subject: "[Inscription au club] {{ form.value.prenom|e }} {{ form.value.nom|e }}"
+            body: "{% include 'forms/data.html.twig' %}"
+#            attachments: 
+#              - 'myfiles'
+        - save:
+            fileprefix: feedback-
+            dateformat: Ymd-His-u
+            extension: txt
+            body: "{% include 'forms/data.txt.twig' %}"
+        - message: Merci pour votre inscription ! Nous nous réjouissons de vous accueilir au bord du lac.
+        - display: merci
