@@ -18,6 +18,7 @@ Le programme peut varié en fonction des capacités des participants et de la m�
 Les cours sont toujours encadrés par un [moniteur JS](/aviron/moniteurs) [certifié](http://www.baspo.admin.ch/internet/baspo/fr/home.html), assisté par des membres du club expérimentés.
 
 ###Dates cours A
+
 | Dates			| Jours		| Heures
 |----			|----		|----
 | 17 avril 2018		| mardi		| 18h00-20h30
@@ -29,6 +30,7 @@ Les cours sont toujours encadrés par un [moniteur JS](/aviron/moniteurs) [certi
 | 28 avril 2018		| samedi 	| 8h30-11h00
 	
 ###Dates cours B
+
 | Dates			| Jours		| Heures
 |----			|----		|----
 | 22 mai 2018		| mardi		| 18h00-20h30
@@ -40,6 +42,7 @@ Les cours sont toujours encadrés par un [moniteur JS](/aviron/moniteurs) [certi
 | 2 mai 2018		| samedi 	| 8h30-11h00
 
 ###Dates cours C
+
 | Dates			| Jours		| Heures
 |----			|----		|----
 | 7 août 2018		| mardi		| 18h00-20h30
