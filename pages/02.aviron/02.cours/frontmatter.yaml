@@ -209,5 +209,5 @@ form:
             dateformat: Ymd-His-u
             extension: txt
             body: "{% include 'forms/data.txt.twig' %}"
-        - message: Merci pour votre inscription ! Nous nous réjouissons de te vous accueilir au bord du lac.
+        - message: Merci pour votre inscription ! Nous nous réjouissons de vous accueilir au bord du lac.
         - display: merci
