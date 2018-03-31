@@ -4,7 +4,7 @@ routes:
 title: Cours
 metadata:
     description: Prendre des cours au Club d'Aviron de Biel/Bienne. Au bord du lac de Bienne Bielersee.
-    keywords: Cours, leÃ§ons, Aviron, Rudern, Rowing, Bienne, Biel, skiff, skull, yolette, ergomÃ¨tre, inscription
+    keywords: Cours, leçons, Aviron, Rudern, Rowing, Bienne, Biel, skiff, skull, yolette, ergomètre, inscription
 form:
     name: Inscription_aux_cours
     classes : 'container-fluid form'
@@ -13,7 +13,7 @@ form:
           outerclasses: 'form-group'
           classes: 'form-control'
           label: Nom de famille 
-          placeholder: Max 50 caractÃ¨res
+          placeholder: Max 50 caractères
           autofocus: on
           autocomplete: on
           type: text
@@ -27,8 +27,8 @@ form:
         - name: prenom
           outerclasses: 'form-group'
           classes: 'form-control'      
-          label: PrÃ©nom 
-          placeholder: Max 50 caractÃ¨res
+          label: Prénom 
+          placeholder: Max 50 caractères
           autofocus: on
           autocomplete: on  
           type: text
@@ -46,14 +46,14 @@ form:
           type: radio
           options:
                masculin: Masculin
-               fÃ©minin: FÃ©minin
+               féminin: Féminin
           validate:
             required: true
         - name: naissance
           outerclasses: 'form-group'
           classes: 'form-control'
           type: date
-          label: Date de naissance
+          label: date de naissance
           validate:
             min: "1918-01-01"
             max: "2008-01-01"
@@ -61,7 +61,7 @@ form:
         - name: nation
           outerclasses: 'form-group'
           classes: 'form-control'        
-          label: NationalitÃ©
+          label: Nationalité
           type: text
           autofocus: true
           validate:
@@ -75,11 +75,11 @@ form:
           validate:
             required: 1
             pattern: '^[0-9]{3}.[0-9]{4}.[0-9]{4}.[0-9]{2}$'
-            message: 'Format incorrect. LÂ´AVS doit avoir un format 123.1234.1234.12'
+            message: 'Format incorrect. L´AVS doit avoir un format 123.1234.1234.12'
         - name: rue
           outerclasses: 'form-group'
           classes: 'form-control'        
-          label: Rue, NÂ°
+          label: Rue, N°
           type: text
           autofocus: true
           validate:
@@ -95,24 +95,24 @@ form:
         - name: natel
           outerclasses: 'form-group'
           classes: 'form-control'        
-          label: tÃ©lÃ©phone portable
+          label: Téléphone portable
           placeholder: 099 999 99 99
           type: text
           autofocus: true          
           validate:
             required: 1
             pattern: '(0041|\+41|0)\s?(\d{2})\s?(\d{3})\s?(\d{2})\s?(\d{2})'
-            message: 'Format incorrect. Un NÂ° Suisse Ã  la forme 012 123 12 12 ou +41 12 123 12 12'
+            message: 'Format incorrect. Un N° Suisse à la forme 012 123 12 12 ou +41 12 123 12 12'
         - name: fixe
           outerclasses: 'form-group'
           classes: 'form-control'        
-          label: tÃ©lÃ©phone fixe
+          label: Téléphone fixe
           type: text
           autofocus: true          
           validate:
             required: false
             pattern: '(0041|\+41|0)\s?(\d{2})\s?(\d{3})\s?(\d{2})\s?(\d{2})'
-            message: 'Format incorrect. Un NÂ° Suisse Ã  la forme 012 123 12 12 ou +41 12 123 12 12'
+            message: 'Format incorrect. Un N° Suisse à la forme 012 123 12 12 ou +41 12 123 12 12'
         - name: email
           outerclasses: 'form-group'
           classes: 'form-control'        
@@ -129,27 +129,27 @@ form:
           classes: 'form-control'        
           type: display
           size: large
-          label: Conditions gÃ©nÃ©rales
+          label: Conditions générales
           markdown: true       
-          content: 'Le signataire doit Ãªtre au bÃ©nÃ©fice dâ€™une assurance accident (caisse maladie ou accident individuelle) et dâ€™une RC. Il doit par ailleurs savoir nager 300 m sans sÂ´arrÃªter. Le club dÃ©cline Ã©galement toute responsabilitÃ©Ì  en cas de non respect des consignes des moniteurs, de dommages corporels et de perte ou vol de matÃ©riel. La SNEB se rÃ©serve le droit de modifier ou de complÃ©ter ces conditions et ce, sans prÃ©avis. Par lÂ´acceptation des conditions gÃ©nÃ©rales, le participant certifie que toutes les informations de ce document sont conforme Ã  la rÃ©alitÃ©Ì, ainsi que dÂ´avoir lu, compris et acceptÃ© les conditions.'
+          content: 'Le signataire doit être au bénéfice d’une assurance accident (caisse maladie ou accident individuelle) et d’une RC. Il doit par ailleurs savoir nager 300 m sans s´arrêter. Le club décline également toute responsabilité´  en cas de non respect des consignes des moniteurs, de dommages corporels et de perte ou vol de matériel. La SNEB se réserve le droit de modifier ou de compléter ces conditions et ce, sans préavis. Par l´acceptation des conditions générales, le participant certifie que toutes les informations de ce document sont conforme à la réalité´, ainsi que d´avoir lu, compris et accepté les conditions.'
         - name: accept_cgv
           outerclasses: 'form-check form-check-inline'
           classes: 'form-check-input'        
           type: checkbox
-          label: 'JÂ´ai lu et jÂ´accepte les conditions gÃ©nÃ©rales'
+          label: 'J´ai lu et j´accepte les conditions générales'
           validate:
             required: true
         - name: accept_18
           outerclasses: 'form-check form-check-inline'
           classes: 'form-check-input'      
           type: checkbox
-          label: 'JÂ´ai 18 ans ou bien mon reprÃ©sentant lÃ©gal me cautionne'
+          label: 'J´ai 18 ans ou bien mon représentant légal me cautionne'
           validate:
             required: true
         - name: nom_legal
           outerclasses: 'form-group'
           classes: 'form-control'        
-          label: Nom du reprÃ©sentant lÃ©gal (Pour les moins de 18 ans, le nom du reprÃ©sentant lÃ©gal doit Ãªtre indiquÃ©e:)
+          label: Nom du représentant légal (Pour les moins de 18 ans, le nom du représentant légal doit être indiquée:)
           type: text
           autofocus: true          
           validate:
@@ -159,9 +159,9 @@ form:
           classes: 'form-control'        
           type: display
           size: large
-          label: Choix du cours dÃ©butant
+          label: Choix du cours débutant
           markdown: true
-          content: 'Veuillez cocher le cours dÃ©butant dÂ´aviron ci-dessous pour vous inscrire. Attention le cours se compose de plusieurs soirÃ©es, veuillez consulter les dates exactes ci dessus'
+          content: 'Veuillez cocher le cours débutant d´aviron ci-dessous pour vous inscrire. Attention le cours se compose de plusieurs soirées, veuillez consulter les dates exactes ci dessus'
         - name: cours_choix
           outerclasses: 'form-check form-check-inline'
           classes: 'form-check-input'       
@@ -176,8 +176,8 @@ form:
         - name: comments
           outerclasses: 'form-group'
           classes: 'form-control'        
-          label: Commentaires supplÃ©mentaires
-          placeholder: Si nÃ©cessaire, ajouter toute information utile qui n'a pas trouvÃ© sa place dans les champs plus haut.
+          label: Commentaires supplémentaires
+          placeholder: Si nécessaire, ajouter toute information utile qui n'a pas trouvé sa place dans les champs plus haut.
           type: textarea
           validate:
             required: false
@@ -209,5 +209,5 @@ form:
             dateformat: Ymd-His-u
             extension: txt
             body: "{% include 'forms/data.txt.twig' %}"
-        - message: Merci pour votre inscription ! Nous nous rÃ©jouissons de te vous accueilir au bord du lac.
+        - message: Merci pour votre inscription ! Nous nous réjouissons de te vous accueilir au bord du lac.
         - display: merci
