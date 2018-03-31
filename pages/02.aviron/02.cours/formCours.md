@@ -75,3 +75,7 @@ téléphone [au +41 [0] 79 338 48 56](tel:+41793384856)
 
 _tous les champs marqués * sont obligatoires_
 
+La personne demande l'adhésion en tant que membre actif. Celle-ci sera valable lorsque l’examen de la demande sera acceptée par l'AG et que le paiement de la cotisation sera effectué.                                                                                    
+
+    
+

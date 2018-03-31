@@ -149,7 +149,7 @@ form:
         - name: nom_legal
           outerclasses: 'form-group'
           classes: 'form-control'        
-          label: Nom du représentant légal (Pour les moins de 18 ans, le nom du représentant légal doit être indiquée:)
+          label: Nom du représentant légal (Pour les moins de 18 ans, le nom du représentant légal doit être indiqué :)
           type: text
           autofocus: true          
           validate:
