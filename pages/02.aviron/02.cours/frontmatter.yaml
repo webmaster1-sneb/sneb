@@ -30,7 +30,7 @@ form:
           label: Votre prénom 
           placeholder: Max 50 caractères
           autofocus: on
-          autocomplete: on
+          autocomplete: on  
           type: text
           size: large
           attributes:
@@ -195,11 +195,11 @@ form:
         - email:
             from: "{{ config.plugins.email.from }}"
             to:
-              - "nfo@sneb.ch"
+              - "info@sneb.ch"
             cc:
                - "{{ form.value.email }}"
             bcc: 
-               - "webmastery@sneb.ch"
+               - "webmaster@sneb.ch"
             subject: "[Inscription au cours] {{ form.value.cours_choix|e }} {{ form.value.prenom|e }} {{ form.value.nom|e }}"
             body: "{% include 'forms/data.html.twig' %}"
 #            attachments: 
