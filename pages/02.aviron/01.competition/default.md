@@ -1,10 +1,10 @@
 ##Résultats des régates 2018##
 
 ##Résultats des années Précédentes
-- [Année 2014](/aviron/competition/2014)
-- [Année 2015](Aviron/competition/2015) -
-- [Année 2016](Aviron/competition/2016)
-- [Année 2017](Aviron/competition/2017)
+- [Année 2014](2014/)
+- [Année 2015](2015/) -
+- [Année 2016](2016/)
+- [Année 2017](2017/)
 
 
 ##L'équipe des compétiteurs 2017
