@@ -1,10 +1,10 @@
-﻿Title: Année 2014
-----
-Description: La compétition au Club d'Aviron de Biel/Bienne. Résultats, calssements et compétiteurs et équipes.
-----
-Keywords: Compétition, Challenge, Race, Aviron, Rudern, Rowing, Bienne, Biel, skiff, skull
-----
-Text:
+﻿---
+title: Année 2014
+metadata:
+   description: 'La compétition au Club d´Aviron de Biel/Bienne. Résultats, calssements et compétiteurs et équipes.'
+   keywords: Compétition, Challenge, Race, Aviron, Rudern, Rowing, Bienne, Biel, skiff, skull
+---
+
 ##Résultats des régates 2014##
 
 BRAVO à Jolan qui a terminé 3ème et récolte une médaille de bronze en 8x mixte avec le Seeclub Biel aux Championnats Suisses.

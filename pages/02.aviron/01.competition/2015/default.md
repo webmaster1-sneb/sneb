@@ -1,10 +1,9 @@
-﻿Title: Compétition
-----
-Description: La compétition au Club d'Aviron de Biel/Bienne. Résultats, classements et compétiteurs et équipes.
-----
-Keywords: Compétition, Challenge, Race, Aviron, Rudern, Rowing, Bienne, Biel, skiff, skull
-----
-Text:
+﻿---
+title: Année 2015
+metadata:
+   description: 'La compétition au Club d´Aviron de Biel/Bienne. Résultats, calssements et compétiteurs et équipes.'
+   keywords: Compétition, Challenge, Race, Aviron, Rudern, Rowing, Bienne, Biel, skiff, skull
+---
 ##Résultats des régates 2015##
 
 
@@ -70,20 +69,15 @@ Text:
 |    U19 |   1x        | N.Kaech		|1er|
 |    U17|   1x        |	 S.Kocher		|2ème|	
 
-
-
-##Résultats des années Précédentes
-(link: Aviron/competition/2014 text: Année 2014)
-
 ##L'équipe des compétiteurs 2015
 
 ###Jolan Wicht **U19**
-(image: jolan.jpg alt: Jolan à l'attaque sur skiff Stämpfli class:img-responsive img-rounded)
+![](jolan.jpg&classes=img-rounded,img-reponsive)
 ###Nuno Kaech **U19**
-(image: nuno.jpg alt: Nuno au dégagé sur skiff Wintech class:img-responsive img-rounded)
+![](nuno.jpg&classes=img-rounded,img-reponsive)
 ###Michaël Steiner **U19**
-(image: michael.jpg alt: Michaël au dégagé sur skiff Stämpfli class:img-responsive img-rounded)
+![](michael.jpg&classes=img-rounded,img-reponsive)
 ###Léonard Moeschler **U15**
-(image: leonard.jpg alt: Léonard au dégagé sur skiff  class:img-responsive img-rounded)
+![](leonard.jpg&classes=img-rounded,img-reponsive)
 ###Sven Kocher **U15**
-(image: sven.jpg alt: Sven au dégagé sur skiff  class:img-responsive img-rounded)
+![](sven.jpg&classes=img-rounded,img-reponsive)

@@ -1,10 +1,9 @@
-Title: Compétition
-----
-Description: La compétition au Club d'Aviron de Biel/Bienne. Résultats, classements et compétiteurs et équipes.
-----
-Keywords: Compétition, Challenge, Race, Aviron, Rudern, Rowing, Bienne, Biel, skiff, skull
-----
-Text:
+---
+title: Année 2016
+metadata:
+   description: 'La compétition au Club d´Aviron de Biel/Bienne. Résultats, calssements et compétiteurs et équipes.'
+   keywords: Compétition, Challenge, Race, Aviron, Rudern, Rowing, Bienne, Biel, skiff, skull
+---
 ##Résultats des régates 2016##
 
 
@@ -39,23 +38,18 @@ Text:
 |    U17|   4x        |L.Moeschler/S.Kocher/N.Porhokovoi/Y.Maillefer	|7èmes|	
 |    U17|   2x        |	S.Kocher/N.Porhokovoi		|3èmes|	
 
-
-##Résultats des années Précédentes
-(link: Aviron/competition/2014 text: Année 2014) - 
-(link: Aviron/competition/2015 text: Année 2015)
-
 ##L'équipe des compétiteurs 2016
 
 ###Nils Kocher **U15**
-(image: Nils.jpg alt: Nils au dégagé sur skiff  class:img-responsive img-rounded)
+![](Nils.jpg&classes=img-rounded,img-reponsive)
 ###Léonard Moeschler **U17**
-(image: leonard.jpg alt: Léonard au dégagé sur skiff  class:img-responsive img-rounded)
+![](leonard.jpg&classes=img-rounded,img-reponsive)
 
 ###Sven Kocher **U17**
-(image: sven.jpg alt: Sven au dégagé sur skiff  class:img-responsive img-rounded)
+![](sven.jpg&classes=img-rounded,img-reponsive)
 
 ###Nikita Porhokovoi  **U17**
-(image: nikita.jpg alt: Nikita au dégagé sur skiff  class:img-responsive img-rounded)
+![](nikita.jpg&classes=img-rounded,img-reponsive)
 
 ###Younous Maillefer **U17**
-(image: younous.jpg alt: Younous au dégagé sur skiff  class:img-responsive img-rounded)
+![](younous.jpg&classes=img-rounded,img-reponsive)
