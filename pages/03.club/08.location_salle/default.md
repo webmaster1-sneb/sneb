@@ -1,9 +1,9 @@
 
 ## Notre salle
 
-![](9.jpg&classes=img-responsive,img-rounded)
-![](10.jpg&classes=img-responsive,img-rounded)
-![](11.jpg&classes=img-responsive,img-rounded)
+![](9.jpg?classes=img-responsive,img-rounded)
+![](10.jpg?classes=img-responsive,img-rounded)
+![](11.jpg?classes=img-responsive,img-rounded)
 
 ##Location de notre salle
 ###Prix et conditions###
