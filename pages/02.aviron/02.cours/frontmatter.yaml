@@ -52,11 +52,10 @@ form:
         - name: naissance
           outerclasses: 'form-group'
           classes: 'form-control'
-          type: date
+          type: text
           label: date de naissance
+          placeholder: 'jj.mm.AAAAA (expl: 31.12.2000)'
           validate:
-            min: "1918-01-01"
-            max: "2008-01-01"
             required: true
         - name: nation
           outerclasses: 'form-group'
