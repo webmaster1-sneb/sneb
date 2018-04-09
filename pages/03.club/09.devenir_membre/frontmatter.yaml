@@ -50,11 +50,10 @@ form:
         - name: naissance
           outerclasses: 'form-group'
           classes: 'form-control'
-          type: date
+          type: text
           label: date de naissance
+          placeholder: 'jj.mm.AAAAA (expl: 31.12.2000)'
           validate:
-            min: "1918-01-01"
-            max: "2008-01-01"
             required: true
         - name: nation
           outerclasses: 'form-group'
@@ -185,7 +184,7 @@ form:
           outerclasses: 'form-check form-check-inline'
           classes: 'form-check-input'      
           type: checkbox
-          label: 'Je suis en bonne santé et me sens en forme pour la pratique de laviron'
+          label: 'Je suis en bonne santé et me sens en forme pour la pratique de l´aviron'
           validate:
             required: false
         - name: assert_nage
@@ -200,13 +199,6 @@ form:
           classes: 'form-check-input'  
           type: checkbox
           label: 'J´ai lu les statuts et règlements de la SNEB (Disponible sur www.sneb.ch/club/status)'
-          validate:
-            required: false 
-        - name: assert_cgv
-          outerclasses: 'form-check form-check-inline'
-          classes: 'form-check-input'  
-          type: checkbox
-          label: 'Je peux nager 300m en eau libre'
           validate:
             required: false 
         - name: accept_18
