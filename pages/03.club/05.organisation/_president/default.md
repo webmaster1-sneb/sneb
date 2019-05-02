@@ -1,8 +1,8 @@
 ---
 title: Nicole Steiner 
 ---
-![](img.jpg?classes=img-rounded,img-reponsive&forceResize=180,263)
+![](img.jpg?classes=img-rounded,img-reponsive&forceResize=180,240)
 ### Présidente  
-Aviron Coach J+S   
+####Coach J+S   
 [+41 [0] 79 338 48 56](tel:+41793384856)  
-[nicole.steiner AT sneb.ch](mailto:nicole.steiner@sneb.ch)
+[president AT sneb.ch](mailto:president@sneb.ch)

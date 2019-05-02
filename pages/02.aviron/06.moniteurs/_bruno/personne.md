@@ -1,4 +1,4 @@
 ---
-title: Bruno Baudry
+title: Bruno <p> Baudry
 ---
 Moniteur J+S

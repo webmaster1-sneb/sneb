@@ -1,4 +1,4 @@
 ---
-title: Gilles Lauper
+title: Gilles <p>Lauper
 ---
 Moniteur J+S

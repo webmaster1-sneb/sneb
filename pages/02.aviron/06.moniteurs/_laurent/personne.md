@@ -1,4 +1,4 @@
 ---
-title: Laurent Sester
+title: Laurent <p>Sester
 ---
 Moniteur J+S

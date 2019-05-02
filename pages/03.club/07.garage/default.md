@@ -9,9 +9,8 @@
 ![](19.jpg?classes=img-responsive,img-rounded)
 
 ###Notre salle###
-![](8.jpg?classes=img-responsive,img-rounded)
-
-
+![](08.jpg?classes=img-responsive,img-rounded)
+![](07.jpg?classes=img-responsive,img-rounded)
 
 
 

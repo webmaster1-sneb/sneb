@@ -1,4 +1,4 @@
 ---
-title: Patric Kocher
+title: Patric <p>Kocher
 ---
 Moniteur J+S

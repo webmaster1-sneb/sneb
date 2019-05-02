@@ -1,4 +1,4 @@
 ---
-title: Denis Kjelsberg
+title: Denis <p>Kjelsberg
 ---
 Moniteur J+S

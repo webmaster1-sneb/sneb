@@ -1,1 +1,0 @@
-[camillebloch:](http://www.camillebloch.ch/fr/)

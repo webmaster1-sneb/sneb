@@ -18,6 +18,7 @@ Voir les Données hydrologiques de :
 - Station [Aare-Brügg (Nidau)](https://www.hydrodaten.admin.ch/fr/2029.html#aktuelle_daten)
 - Station [Aare-Hagneck](https://www.hydrodaten.admin.ch/fr/2085.html#aktuelle_daten)
 ![](Slide2.PNG?classes=img-responsive,img-rounded)
+
 ## Les vents dans la région
 ### Le "vent" (d'ouest)
 Le vent est un régime ouest-sud-ouest. Il provoque de grandes vagues. Souvent le lac est impraticable. Lorsque le vent se lève en cours de sortie, il faut rentrer rapidement.

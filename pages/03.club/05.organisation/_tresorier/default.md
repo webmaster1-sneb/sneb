@@ -1,7 +1,7 @@
 ---
-title: Richard Mamie  
+title: Jolan <p>Wicht 
 ---
-![](img.jpg?classes=img-rounded,img-reponsive&forceResize=180,263)
+![](img.jpg?classes=img-rounded,img-reponsive&forceResize=180,240)
 ### Finances  
-[+41 [0] 79 388 99 92](tel:+41793889992)  
+[+41 [0] 78 611 32 38](tel:+41786113238)  
 [caissier AT sneb.ch](mailto:caissier@sneb.ch)
