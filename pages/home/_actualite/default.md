@@ -9,6 +9,6 @@ Avril à septembre 2019
  [Aviron > Cours](/aviron/juniors)
 
 ****Cours débutants****
-Les cours débutants 2019 sont déjà complet.
-Les dates des cours 2020 seront visible en janvier 2020.
+Les cours débutants 2019 sont déjà complets.
+Les dates des cours 2020 seront visibles en janvier 2020.
 

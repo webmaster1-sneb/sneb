@@ -19,9 +19,9 @@ En vous inscrivant au cours, vous vous engagez à participer à toutes les leço
 	
 ###Dates cours 
 
-Nos cours d'aviron sont complet pour 2019
+Nos cours d'aviron sont complets pour 2019.
 
-En janvier les cours pour 2020 seront publiés ici!
+En janvier, les cours pour 2020 seront publiés ici!
 
 
 
