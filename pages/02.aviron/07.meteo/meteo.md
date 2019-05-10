@@ -1,3 +1,4 @@
+On peut aussi regarder la [webcam](/club/webcam) pour voir l'état du lac.
 
 ## Les trois points WINDGURU du lac de Bienne
 ![](Slide16.PNG?classes=img-responsive,img-rounded)
