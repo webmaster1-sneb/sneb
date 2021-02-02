@@ -3,9 +3,8 @@
 
 ###MARS
 
-**12** 			Assemblée générale virtuelle à 19h00
-	
-**28** 			Ouverture de saison avec baptême 
+- **12** 			Assemblée générale virtuelle à 19h00	
+- **28** 			Ouverture de saison avec baptême 
 
 	
 ###AVRIL
