@@ -20,4 +20,4 @@ Nous rappelons que dès maintenant pour les sorties sur le lac, **il faut être 
 Avant de partir révisez nos [conseils météo](/aviron/meteo) et ou regardez [les prévisions du vent et précipitations](/aviron/meteo#windguru)
 
 ##Calendrier
-Telechargez le [calendrier 2019 en iCal](https://www.google.com/calendar/ical/jhhjmbajfom7q67k26lrn1h8h8%40group.calendar.google.com/public/basic.ics) ou rendez-vous sur [la page "Actuel"](/actuel) pour planifier votre année.
+Telechargez le [calendrier 2021 en iCal](https://www.google.com/calendar/ical/jhhjmbajfom7q67k26lrn1h8h8%40group.calendar.google.com/public/basic.ics) ou rendez-vous sur [la page "Actuel"](/actuel) pour planifier votre année.
