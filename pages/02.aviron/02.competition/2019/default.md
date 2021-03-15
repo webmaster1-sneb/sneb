@@ -162,7 +162,7 @@
 
 
 ###Nils Kocher **U17**
-![Nils au dégagé sur skiff  ](Nils.jpg?classes=img-responsive,img-rounded)
+![Nils au dégagé sur skiff  ](nils.jpg?classes=img-responsive,img-rounded)
 
 ###Sven Kocher **U19**
 ![Sven au dégagé sur skiff  ](sven.jpg?classes=img-responsive,img-rounded)
@@ -175,5 +175,5 @@
 - [Année 2016](2016/)
 - [Année 2017](2017/)
 - [Année 2018](2018/)
-- [Année 2019](2019/)
+
 

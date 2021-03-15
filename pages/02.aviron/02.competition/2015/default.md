@@ -1,7 +1,7 @@
-﻿---
+---
 title: Année 2015
 metadata:
-   description: 'La compétition au Club d´Aviron de Biel/Bienne. Résultats, calssements et compétiteurs et équipes.'
+   description: 'La compétition au Club d´Aviron de Biel/Bienne. Résultats, classements et compétiteurs et équipes.'
    keywords: Compétition, Challenge, Race, Aviron, Rudern, Rowing, Bienne, Biel, skiff, skull
 ---
 ##Résultats des régates 2015##

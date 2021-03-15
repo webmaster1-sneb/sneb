@@ -12,13 +12,16 @@
 |								|Membres / Mitglieder	| Externe / Extern|
 |----								|----			|----		|
 |Apéro ou autre 2h / Apéro usw.2td				| 100.-			| 200.-		| 
-|Demi-jour (8h-13h ou 13-20h)/ Halbtag (8-13 oder 13-20Uhr)	| 150.-			| 300.-		| 
-|Journée (8h-20h) / Ganzer Tag (8h-20Uhr)				| 200.-			| 400.-		| 
-|Soirée / Abend (15h-02h00)					| 250.-			|Pas de location / Kein Vermieten	| 
+|Demi-jour (8h00-13h00 ou 13h00-20h00) / Halbtag (8h00-13h00 oder 13h00-20h00)	| 150.-			| 300.-		| 
+|Journée (8h00-20h00) / Ganzer Tag (8h00-20h00)				| 200.-			| 400.-		| 
+|Soirée / Abend (15h00-02h00)					| 250.-			|Pas de location / Kein Vermieten	| 
 |Caution pour toute location / Kaution für sämtliches Vermieten	|Non/ Nein		| 200.-			| 
  
+###Disponibilité de la salle / Prüfen Sie die Verfügbarkeit
+#####Vérifiez la [disponibilité de la salle](http://www.sneb.ch/club/actuel)
+#####Prüfen Sie [die Verfügbarkeit](http://www.sneb.ch/club/actuel)
 
 ###Réservation / Buchung
-#####Vérifiez la [disponibilité de la salle](http://www.sneb.ch/actuel) et remplissez le [contrat de location](SNEB_Contrat_location.pdf)
-#####Prüfen Sie [die Verfügbarkeit](http://www.sneb.ch/actuel) und füllen Sie den [Mietvertrag](SNEB_Mietvertrag.pdf) aus
+Remplissez le [contrat de location](SNEB_Contrat_location.pdf)
+Füllen Sie den [Mietvertrag](SNEB_Mietvertrag.pdf) aus
 
